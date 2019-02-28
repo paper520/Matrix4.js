@@ -1,5 +1,5 @@
 /*!
-*  @license Matrix4.js v0.1.1
+*  @license Matrix4.js v0.1.1next
 * (c) 2019 yelloxing git+https://github.com/yelloxing/Matrix4.js.git
 * License: MIT
 */

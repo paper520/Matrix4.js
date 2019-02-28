@@ -1,6 +1,6 @@
 {
   "name": "matrix4.js",
-  "version": "0.1.1",
+  "version": "0.1.1next",
   "description": "4x4矩阵变换，主要用于空间坐标变换计算。4X4 matrix transformation is mainly used for space coordinate transformation calculation.",
   "main": "build/Matrix4.min.js",
   "scripts": {
