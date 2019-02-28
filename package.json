@@ -1,0 +1,26 @@
+{
+  "name": "matrix4.js",
+  "version": "0.1.0",
+  "description": "4x4矩阵变换，主要用于空间坐标变换计算。4X4 matrix transformation is mainly used for space coordinate transformation calculation.",
+  "main": "build/Matrix4.min.js",
+  "scripts": {
+    "release": "node_modules/.bin/grunt release",
+    "start": "npm install && npm run release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yelloxing/Matrix4.js.git"
+  },
+  "author": "心叶",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yelloxing/Matrix4.js/issues"
+  },
+  "homepage": "https://github.com/yelloxing/Matrix4.js#readme",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-jshint": "^2.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-plug-insert": "^0.1.2"
+  }
+}
